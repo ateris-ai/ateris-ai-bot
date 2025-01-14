@@ -1,6 +1,6 @@
-# NeuralTrader: A Solana Trading Bot Leveraging AI (Beta)
+﻿# Ateris: A Solana Trading Bot Leveraging AI (Beta)
 
-NeuralTrader is an advanced trading bot designed to automate token trading on the Solana blockchain. By utilizing cutting-edge AI and neural networks, it provides predictive market insights, real-time sentiment analysis, and adaptable strategies for traders. NeuralTrader is optimized to respond dynamically to market conditions, enhancing profitability through advanced reinforcement learning models.
+Ateris is an advanced trading bot designed to automate token trading on the Solana blockchain. By utilizing cutting-edge AI and neural networks, it provides predictive market insights, real-time sentiment analysis, and adaptable strategies for traders. Ateris is optimized to respond dynamically to market conditions, enhancing profitability through advanced reinforcement learning models.
 
 ![NeuralTrader Banner](banner.png)
 
@@ -15,7 +15,7 @@ NeuralTrader is an advanced trading bot designed to automate token trading on th
 
 ## Setup
 
-To begin using NeuralTrader:
+To begin using Ateris:
 
 1. **Create a Wallet**:
    - Set up a new Solana wallet and fund it with SOL.
@@ -80,7 +80,7 @@ You should see output similar to this:
 
 ## Advanced Features: Warp Transactions (Beta)
 
-For improved transaction performance and reduced failures, NeuralTrader supports Warp Transactions. This service enables optimized transaction execution through third-party providers.
+For improved transaction performance and reduced failures, Ateris supports Warp Transactions. This service enables optimized transaction execution through third-party providers.
 
 ### Security
 Your private key remains secure and is not transmitted during transaction processing.
@@ -102,10 +102,10 @@ Ensure your wallet holds the required USDC or WSOL for trading.
 
 ## Contact & Support
 
-- Visit our [website](https://neuraltrader.io).
-- Follow us on [Twitter](https://x.com/neuraltradersol).
+- Visit our [website](https://ateris.io).
+- Follow us on [Twitter](https://x.com/ateris_ai).
 
 ---
 
 ## Disclaimer
-NeuralTrader is provided as-is for educational purposes. Trading cryptocurrencies involves significant risk. Users are solely responsible for any losses incurred while using the bot.
+Ateris is provided as-is for educational purposes. Trading cryptocurrencies involves significant risk. Users are solely responsible for any losses incurred while using the bot.
